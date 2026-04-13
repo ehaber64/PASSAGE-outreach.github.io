@@ -21,6 +21,7 @@ author: contact J. Jenick
 
 navbar-links:
   About: "aboutme"
+  Gallery: "gallery"
   Resources:
     - Demos: "demos"
     - Past Events: "pastevents"
