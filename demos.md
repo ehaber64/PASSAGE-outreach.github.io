@@ -112,7 +112,7 @@ A reading lamp was placed facing the scrim from the front. When lit, visitors ar
 <img src="/assets/img/Ray_smiling_head_in_sink.jpg"
      alt="Water Flowing Upward"
      class="img-fluid d-block mx-auto"
-     style="width: 60%; max-width: 500px; height: auto;">
+     style="width: 40%; max-width: 500px; height: auto;">
 
 Details...
 
