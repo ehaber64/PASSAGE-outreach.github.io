@@ -109,11 +109,9 @@ A reading lamp was placed facing the scrim from the front. When lit, visitors ar
 <details markdown="1">
 <summary>Water Flowing Upward</summary>
 
-![Water Flowing Upward]({{ '/assets/img/Ray_smiling_head_in_sink.jpg' | relative_url }}){: .mx-auto.d-block :}
-
-Details...
-
 ![Water Flowing Upward]({{ '/assets/img/Water_flowing_upwards.gif' | relative_url }}){: .mx-auto.d-block :}
+
+![Water Flowing Upward]({{ '/assets/img/Ray_smiling_head_in_sink.jpg' | relative_url }}){: .mx-auto.d-block :}
 
 Details...
 
