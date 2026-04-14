@@ -111,8 +111,8 @@ A reading lamp was placed facing the scrim from the front. When lit, visitors ar
 
 ![Water Flowing Upward]({{ '/assets/img/Water_flowing_upwards.gif' | relative_url }}){: .mx-auto.d-block :}
 
-![Water Flowing Upward]({{ '/assets/img/Ray_smiling_head_in_sink.jpg' | relative_url }}){: .mx-auto.d-block :}
+![Ray Head In Sink]({{ '/assets/img/Ray_smiling_head_in_sink.jpg' | relative_url }}){: .mx-auto.d-block :}
 
-Details...
+It is also important to choose a sink with enough volume to accomodate an average to above average size head.
 
 </details>
